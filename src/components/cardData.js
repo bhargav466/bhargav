@@ -2,7 +2,7 @@ import React from 'react'
 import {useLocation} from 'react-router-dom';
 import './cardData.css'
 function CardData() {
-    //  console.log(props)
+     console.log()
     const location = useLocation();
   return (
     <div className="card-container">
